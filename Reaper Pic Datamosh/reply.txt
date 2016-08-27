@@ -1,0 +1,95 @@
+Image: reaper_datamoshed.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1920x1100+0+0
+  Resolution: 72x72
+  Print size: 26.6667x15.2778
+  Units: Undefined
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2112000
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 177.051 (0.694319)
+      standard deviation: 53.7096 (0.210626)
+      kurtosis: -0.28264
+      skewness: -0.413847
+      entropy: 0.899569
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 175.526 (0.688338)
+      standard deviation: 57.8623 (0.226911)
+      kurtosis: -0.51767
+      skewness: -0.438863
+      entropy: 0.909602
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 209.679 (0.822269)
+      standard deviation: 64.9188 (0.254584)
+      kurtosis: 0.291443
+      skewness: -1.25209
+      entropy: 0.617736
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 187.419 (0.734975)
+      standard deviation: 59.0119 (0.231419)
+      kurtosis: -0.17963
+      skewness: -0.666987
+      entropy: 0.808969
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Alpha color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: none
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1920x1100+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 100
+  Orientation: TopLeft
+  Properties:
+    date:create: 2016-08-24T06:14:08-04:00
+    date:modify: 2016-08-24T06:14:11-04:00
+    exif:ColorSpace: 1
+    exif:ExifImageLength: 1100
+    exif:ExifImageWidth: 1920
+    exif:ExifOffset: 38
+    exif:Orientation: 1
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 1x1,1x1,1x1
+    signature: ef4309786b48719d025b382630df4be13bc6c02a137f54a9f3533987c1a0488a
+  Profiles:
+    Profile-8bim: 40 bytes
+    Profile-exif: 86 bytes
+    Profile-iptc: 0 bytes
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 1.569MB
+  Number pixels: 2.112M
+  Pixels per second: 19.2MB
+  User time: 0.109u
+  Elapsed time: 0:01.110
+  Version: ImageMagick 7.0.2-9 Q16 x64 2016-08-14 http://www.imagemagick.org

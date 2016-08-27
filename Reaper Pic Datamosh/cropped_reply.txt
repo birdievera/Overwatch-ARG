@@ -1,0 +1,86 @@
+Image: cropped_reply.jpeg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1887x921+0+0
+  Resolution: 72x72
+  Print size: 26.2083x12.7917
+  Units: PixelsPerInch
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 1737927
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 179.505 (0.703943)
+      standard deviation: 55.6906 (0.218394)
+      kurtosis: -0.264367
+      skewness: -0.505386
+      entropy: 0.89058
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 183.587 (0.71995)
+      standard deviation: 56.5976 (0.221951)
+      kurtosis: -0.379797
+      skewness: -0.576514
+      entropy: 0.893235
+    Blue:
+      min: 28 (0.109804)
+      max: 255 (1)
+      mean: 225.126 (0.882845)
+      standard deviation: 51.6795 (0.202665)
+      kurtosis: 1.58761
+      skewness: -1.65993
+      entropy: 0.540533
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 196.073 (0.768913)
+      standard deviation: 54.6976 (0.214501)
+      kurtosis: 0.453762
+      skewness: -0.90489
+      entropy: 0.774782
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Alpha color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: none
+  Interlace: JPEG
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1887x921+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 100
+  Orientation: Undefined
+  Properties:
+    date:create: 2016-08-26T06:12:12-04:00
+    date:modify: 2016-08-26T06:40:21-04:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 1x1,1x1,1x1
+    signature: be1f4efcf1611afd1fab22e8489a6677dea59e4531c7329901d932c7e49ee20a
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 1.6MB
+  Number pixels: 1.738M
+  Pixels per second: 15.8MB
+  User time: 0.109u
+  Elapsed time: 0:01.110
+  Version: ImageMagick 7.0.2-9 Q16 x64 2016-08-14 http://www.imagemagick.org

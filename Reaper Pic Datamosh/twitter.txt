@@ -1,0 +1,84 @@
+Image: message_to_sombra_twitter.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1920x1100+0+0
+  Units: Undefined
+  Type: TrueColor
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2112000
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 172.321 (0.675768)
+      standard deviation: 54.3452 (0.213119)
+      kurtosis: -0.289523
+      skewness: -0.369364
+      entropy: 0.919726
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 174.133 (0.682875)
+      standard deviation: 57.9757 (0.227356)
+      kurtosis: -0.521627
+      skewness: -0.423127
+      entropy: 0.915216
+    Blue:
+      min: 2 (0.00784314)
+      max: 255 (1)
+      mean: 214.755 (0.842177)
+      standard deviation: 60.0452 (0.235471)
+      kurtosis: 0.840466
+      skewness: -1.42398
+      entropy: 0.660259
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 187.07 (0.733606)
+      standard deviation: 57.5037 (0.225505)
+      kurtosis: 0.0383124
+      skewness: -0.693918
+      entropy: 0.831734
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Alpha color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: none
+  Interlace: JPEG
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1920x1100+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 85
+  Orientation: Undefined
+  Properties:
+    date:create: 2016-08-24T06:13:55-04:00
+    date:modify: 2016-08-24T06:13:56-04:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: 8486c1aa5a8dcb55680dcf9b37738df052e26c4bcbf22fac9f59639de0f8b5e6
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 257KB
+  Number pixels: 2.112M
+  Pixels per second: 34.06MB
+  User time: 0.063u
+  Elapsed time: 0:01.062
+  Version: ImageMagick 7.0.2-9 Q16 x64 2016-08-14 http://www.imagemagick.org
